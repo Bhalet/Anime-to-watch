@@ -1,2 +1,7 @@
 # Anime-to-watch
-My Watch list for Anime
+This repository contains my anime watchlist
+
+## Anime List
+
+<!-- BEGIN LIST CONTENT -->
+<!-- END LIST CONTENT -->
