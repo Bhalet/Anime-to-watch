@@ -1,4 +1,4 @@
-name: Update README with TXT contents
+name: Update README with Anime List
 
 on:
   push:
@@ -9,25 +9,21 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: 3.x
-
-      - name: Update README
+      - name: Read list.txt and update README.md
         run: |
-          CONTENT=$(<example.txt)
-          awk '/<!-- BEGIN TXT CONTENT -->/ {print; print "```text"; system("cat example.txt"); print "```"; skip=1; next} /<!-- END TXT CONTENT -->/ {skip=0} !skip' README.md > README.new.md
-          mv README.new.md README.md
+          CONTENT=$(<list.txt)
+          sed -i "/<!-- BEGIN LIST CONTENT -->/,+2d" README.md
+          sed -i "/<!-- END LIST CONTENT -->/i <!-- BEGIN LIST CONTENT -->\n\`\`\`text\n$CONTENT\n\`\`\`\n<!-- END LIST CONTENT -->" README.md
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --cached --quiet || git commit -m "Update README with latest example.txt content"
+          git diff --quiet || git commit -m "Update README with latest list.txt content"
           git push
