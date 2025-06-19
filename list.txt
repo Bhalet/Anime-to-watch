@@ -1,18 +1,17 @@
 Makoto Shinkai {
-    #Your Name
-    #Weathering with you
-    #Suzume
-    Garden of Words
-    5 Centimetres per Second
+    #Your Name　君のなは
+    #Weathering with you　天気の子
+    #Suzume　雀の戸締まり
+    Garden of Words　言の葉の庭
+    5 Centimetres per Second　秒速5センチメートル
 }
-#The Silent Voice
-#Tunnel to Summer
-#Your Eternity
-#Attack on Titan
+#The Silent Voice　聲の形
+#Tunnel to Summer, the Exit of Goodbyes　夏へのトンネル、さよならの出口
+#Your Eternity　不滅のあなたへ
+#Attack on Titan　進撃の巨人
 Fate/Zero
-:Plastic Memories
-Ishura
-The Flowers of Evil
+:Plastic Memories　プラスチャック・メモリイズ
+The Flowers of Evil　悪の華
 :A Certain Magical Index
 Perfect Blue
 The Promised Neverland
@@ -20,17 +19,17 @@ The Promised Neverland
 Devil May Cry
 Violet Evergarden
 #Sirius the Jaeger
-Darker than Black
+Darker than Black　黒の契約者
 Id – Invaded
-#Parasyte
-My little Devil
+#Parasyte　寄生獣
+My Little Devil
 Pluto
 Sound! Euphonium
 Love Is War
-Vinland Saga
+Vinland Saga　ヴィンランド・サガ
 Death Note
 Vivy: Fluorite Eye's Song
-Spice and Wolf
+Spice and Wolf　狼と香辛料
 Baccano!
 Bungo Stray Dogs
 :The Apothecary Diaries
