@@ -16,21 +16,19 @@ jobs:
       - name: Read list.txt and update README.md
         run: |
           CONTENT=$(<list.txt)
-          TEMP_FILE=$(mktemp)
-
-          {
-            echo "<!-- BEGIN LIST CONTENT -->"
-            echo '```text'
-            echo "$CONTENT"
-            echo '```'
-            echo "<!-- END LIST CONTENT -->"
-          } > "$TEMP_FILE"
-
-          # Remove old block
-          sed -i '/<!-- BEGIN LIST CONTENT -->/,/<!-- END LIST CONTENT -->/d' README.md
-          
-          # Insert new block before END marker
-          sed -i "/<!-- END LIST CONTENT -->/e cat $TEMP_FILE" README.md
+          awk -v content="$CONTENT" '
+            BEGIN {
+              print "<!-- BEGIN LIST CONTENT -->"
+              print "```text"
+              print content
+              print "```"
+              print "<!-- END LIST CONTENT -->"
+              next
+            }
+            /<!-- BEGIN LIST CONTENT -->/ { skip=1 }
+            /<!-- END LIST CONTENT -->/ { skip=0; next }
+            !skip
+          ' README.md > README.tmp && mv README.tmp README.md
 
       - name: Commit and push changes
         run: |
@@ -39,4 +37,3 @@ jobs:
           git add README.md
           git diff --quiet || git commit -m "Update README with latest list.txt content"
           git push
-
