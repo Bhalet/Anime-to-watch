@@ -9,20 +9,21 @@ Makoto Shinkai {
 #Tunnel to Summer, the Exit of Goodbyes　夏へのトンネル、さよならの出口
 #Your Eternity　不滅のあなたへ
 #Attack on Titan　進撃の巨人
+#Steins;Gate
 Fate/Zero
 :Plastic Memories　プラスチャック・メモリイズ
 The Flowers of Evil　悪の華
-:A Certain Magical Index
+:A Certain Magical Index とある魔術の禁書目録
 Perfect Blue
 The Promised Neverland
 #To Your Eternity
 Devil May Cry
 Violet Evergarden
-#Sirius the Jaeger
+#Sirius the Jaeger　天狼
 Darker than Black　黒の契約者
-Id – Invaded
+Id :Invaded
 #Parasyte　寄生獣
-My Little Devil
+my little devil
 Pluto
 Sound! Euphonium
 Love Is War
@@ -31,8 +32,8 @@ Death Note
 Vivy: Fluorite Eye's Song
 Spice and Wolf　狼と香辛料
 Baccano!
-Bungo Stray Dogs
-:The Apothecary Diaries
+Bungo Stray Dogs　文豪ストレイドッグス
+:The Apothecary Diaries　薬屋のひとりごと
 Devils' Line
 86: Eighty Six
 Castlevania
