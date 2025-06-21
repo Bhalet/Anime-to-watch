@@ -1,5 +1,3 @@
-name: Update README with Anime List
-
 on:
   push:
     paths:
@@ -18,8 +16,21 @@ jobs:
       - name: Read list.txt and update README.md
         run: |
           CONTENT=$(<list.txt)
-          sed -i "/<!-- BEGIN LIST CONTENT -->/,+2d" README.md
-          sed -i "/<!-- END LIST CONTENT -->/i <!-- BEGIN LIST CONTENT -->\n\`\`\`text\n$CONTENT\n\`\`\`\n<!-- END LIST CONTENT -->" README.md
+          TEMP_FILE=$(mktemp)
+
+          {
+            echo "<!-- BEGIN LIST CONTENT -->"
+            echo '```text'
+            echo "$CONTENT"
+            echo '```'
+            echo "<!-- END LIST CONTENT -->"
+          } > "$TEMP_FILE"
+
+          # Remove old block
+          sed -i '/<!-- BEGIN LIST CONTENT -->/,/<!-- END LIST CONTENT -->/d' README.md
+          
+          # Insert new block before END marker
+          sed -i "/<!-- END LIST CONTENT -->/e cat $TEMP_FILE" README.md
 
       - name: Commit and push changes
         run: |
@@ -28,3 +39,4 @@ jobs:
           git add README.md
           git diff --quiet || git commit -m "Update README with latest list.txt content"
           git push
+
