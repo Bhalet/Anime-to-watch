@@ -16,14 +16,13 @@ jobs:
       - name: Read list.txt and update README.md
         run: |
           CONTENT=$(<list.txt)
-          awk -v content="$(<list.txt)" '
+          awk -v content="$(sed 's/\\/\\\\/g; s/"/\\"/g' list.txt | awk '{ print "    " $0 }')" '
           /<!-- BEGIN LIST CONTENT -->/ {
             print "<!-- BEGIN LIST CONTENT -->"
             print "```text"
             print content
             print "```"
             in_block = 1
-            next
           }
           /<!-- END LIST CONTENT -->/ {
             print "<!-- END LIST CONTENT -->"
