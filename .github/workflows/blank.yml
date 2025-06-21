@@ -16,19 +16,23 @@ jobs:
       - name: Read list.txt and update README.md
         run: |
           CONTENT=$(<list.txt)
-          awk -v content="$CONTENT" '
-            BEGIN {
-              print "<!-- BEGIN LIST CONTENT -->"
-              print "```text"
-              print content
-              print "```"
-              print "<!-- END LIST CONTENT -->"
-              next
-            }
-            /<!-- BEGIN LIST CONTENT -->/ { skip=1 }
-            /<!-- END LIST CONTENT -->/ { skip=0; next }
-            !skip
+          awk -v content="$(<list.txt)" '
+          /<!-- BEGIN LIST CONTENT -->/ {
+            print "<!-- BEGIN LIST CONTENT -->"
+            print "```text"
+            print content
+            print "```"
+            in_block = 1
+            next
+          }
+          /<!-- END LIST CONTENT -->/ {
+            print "<!-- END LIST CONTENT -->"
+            in_block = 0
+            next
+          }
+          !in_block
           ' README.md > README.tmp && mv README.tmp README.md
+
 
       - name: Commit and push changes
         run: |
