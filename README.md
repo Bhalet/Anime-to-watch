@@ -14,7 +14,7 @@ See [list.txt](https://github.com/Bhalet/Anime-to-watch/blob/main/list.txt) for 
   - ~~Suzume　雀の戸締まり~~
   - Garden of Words　言の葉の庭
   - 5 Centimetres per Second　秒速5センチメートル
--Hayao Miyazaki
+- Hayao Miyazaki
   - The Boy and the Heron　君たちはどう生きるか
   - Princess Mononoke　もののけ姫
   - Howl's Moving Castle　ハウルの動く城
