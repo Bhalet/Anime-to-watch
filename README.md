@@ -29,7 +29,7 @@ See [list.txt](https://github.com/Bhalet/Anime-to-watch/blob/main/list.txt) for 
 - ~~Attack on Titan　進撃の巨人~~
 - ~~Steins;Gate~~
 - Fate/Zero
-- :Plastic Memories　プラスチャック・メモリイズ
+- *Plastic Memories　プラスチャック・メモリイズ*
 - The Flowers of Evil　悪の華
 - *A Certain Magical Index とある魔術の禁書目録*
 - Perfect Blue
@@ -40,12 +40,12 @@ See [list.txt](https://github.com/Bhalet/Anime-to-watch/blob/main/list.txt) for 
 - ~~Sirius the Jaeger　天狼~~
 - Darker than Black　黒の契約者
 - Id :Invaded
-- #Parasyte　寄生獣
+- ~~Parasyte　寄生獣~~
 - my little devil
 - Pluto
 - Sound! Euphonium
 - Love Is War
-- Vinland Saga　ヴィンランド・サガ
+- *Vinland Saga　ヴィンランド・サガ*
 - Death Note
 - Vivy: Fluorite Eye's Song
 - Spice and Wolf　狼と香辛料
@@ -60,7 +60,7 @@ See [list.txt](https://github.com/Bhalet/Anime-to-watch/blob/main/list.txt) for 
 - Kino's Journey
 
 
-|   |   |   | 
+| Finished  | Due  | Total |
 |:---|:---|:---|
-|  |   |   | 
+| 11 |  37 |  48 | 
 |  |   |   | 
