@@ -29,6 +29,7 @@ See [list.txt](https://github.com/Bhalet/Anime-to-watch/blob/main/list.txt) for 
 - ~~Attack on Titan　進撃の巨人~~
 - ~~Steins;Gate~~
 - Fate/Zero
+- I Want to Eat Your Pancreas　君の膵臓をたべたい
 - *Plastic Memories　プラスチャック・メモリイズ*
 - The Flowers of Evil　悪の華
 - *A Certain Magical Index とある魔術の禁書目録*
@@ -36,7 +37,9 @@ See [list.txt](https://github.com/Bhalet/Anime-to-watch/blob/main/list.txt) for 
 - The Promised Neverland
 - ~~To Your Eternity~~
 - Devil May Cry
+- Hotarubi no Mori e　蛍火の杜へ
 - Violet Evergarden
+- Fena: Pirate Princess　海賊王女
 - ~~Sirius the Jaeger　天狼~~
 - Darker than Black　黒の契約者
 - Id :Invaded
@@ -62,5 +65,5 @@ See [list.txt](https://github.com/Bhalet/Anime-to-watch/blob/main/list.txt) for 
 
 | Finished  | Due  | Total |
 |:---|:---|:---|
-| 11 |  37 |  48 | 
+| 11 |  -- |  -- | 
 |  |   |   | 
