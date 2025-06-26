@@ -34,33 +34,42 @@ See [list.txt](https://github.com/Bhalet/Anime-to-watch/blob/main/list.txt) for 
 - The Flowers of Evil　悪の華
 - *A Certain Magical Index とある魔術の禁書目録*
 - Perfect Blue
-- The Promised Neverland
-- ~~To Your Eternity~~
+- The Promised Neverland　約束のネバーランド
+- ~~To Your Eternity　滅のあなたへ~~
 - Devil May Cry
 - Hotarubi no Mori e　蛍火の杜へ
-- Violet Evergarden
+- Gurren Lagann　天元突破グレンラガン
+- Blood: The Last Vampire
+　- Blood+
+　- Blood-C
+- Violet Evergarden　ヴァイオレット・エヴァーガーデン
 - Fena: Pirate Princess　海賊王女
 - ~~Sirius the Jaeger　天狼~~
 - Darker than Black　黒の契約者
 - Id :Invaded
 - ~~Parasyte　寄生獣~~
 - my little devil
+- Fullmetal Alchemist: Brotherhood　鋼の錬金術師
 - Pluto
 - Sound! Euphonium
-- Love Is War
+- Maquia: When the Promised Flower Blooms　さよならの朝に約束の花をかざろう
+- Love Is War　かぐや様は告らせたい ～天才たちの恋愛頭脳戦
 - *Vinland Saga　ヴィンランド・サガ*
 - Death Note
-- Vivy: Fluorite Eye's Song
+- Vivy: Fluorite Eye's Song　ヴィヴィ フローライトアイズソング
 - Spice and Wolf　狼と香辛料
-- Baccano!
+- Baccano!　バッカーノ!
 - Bungo Stray Dogs　文豪ストレイドッグス
 - *The Apothecary Diaries　薬屋のひとりごと*
 - Devils' Line
 - 86: Eighty Six
 - Castlevania
-- Mushishi
+- Mushishi　蟲師
+- Her Blue Sky　空の青さを知る人よ
 - Summer Time Rendering
-- Kino's Journey
+- Kino's Journey　キノの旅
+- Anohana: The Flower We Saw That Day　あの日見た花の名前を僕達はまだ知らない。
+- Your Lie in April　四月は君の嘘
 
 
 | Finished  | Due  | Total |
