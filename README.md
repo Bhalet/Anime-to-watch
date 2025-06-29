@@ -1,7 +1,6 @@
 # Anime to Watch
-<p>This repository contains my anime watchlist<br><br><p>
+<p>This repository contains my anime watchlist<br>I am planning to organise it into another repository<br><p>
 
-## List
 See [list.txt](https://github.com/Bhalet/Anime-to-watch/blob/main/list.txt) for my raw list.
 <br/></br>
 
@@ -30,7 +29,7 @@ See [list.txt](https://github.com/Bhalet/Anime-to-watch/blob/main/list.txt) for 
 - ~~Steins;Gate~~
 - Fate/Zero
 - I Want to Eat Your Pancreas　君の膵臓をたべたい
-- *Plastic Memories　プラスチャック・メモリイズ*
+- ~~Plastic Memories　プラスチャック・メモリイズ~~
 - The Flowers of Evil　悪の華
 - *A Certain Magical Index とある魔術の禁書目録*
 - Perfect Blue
@@ -44,6 +43,7 @@ See [list.txt](https://github.com/Bhalet/Anime-to-watch/blob/main/list.txt) for 
 　- Blood-C
 - Violet Evergarden　ヴァイオレット・エヴァーガーデン
 - Fena: Pirate Princess　海賊王女
+- Fruits Basket　フルーツバスケット
 - ~~Sirius the Jaeger　天狼~~
 - Darker than Black　黒の契約者
 - Id :Invaded
@@ -70,9 +70,10 @@ See [list.txt](https://github.com/Bhalet/Anime-to-watch/blob/main/list.txt) for 
 - Kino's Journey　キノの旅
 - Anohana: The Flower We Saw That Day　あの日見た花の名前を僕達はまだ知らない。
 - Your Lie in April　四月は君の嘘
+- Black Butler　黒執事
 
 
 | Finished  | Due  | Total |
 |:---|:---|:---|
-| 11 |  -- |  -- | 
+| 12 |  -- |  -- | 
 |  |   |   | 
