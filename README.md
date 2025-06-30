@@ -28,7 +28,9 @@ See [list.txt](https://github.com/Bhalet/Anime-to-watch/blob/main/list.txt) for 
 - ~~Attack on Titan　進撃の巨人~~
 - ~~Steins;Gate~~
 - Fate/Zero
-- I Want to Eat Your Pancreas　君の膵臓をたべたい
+- Tokyo Magnitude 8.0　東京マグニチュード　8.0
+- Japan Sinks　　日本沈没
+- ~~I Want to Eat Your Pancreas　君の膵臓をたべたい~~
 - ~~Plastic Memories　プラスチャック・メモリイズ~~
 - The Flowers of Evil　悪の華
 - *A Certain Magical Index とある魔術の禁書目録*
@@ -39,16 +41,16 @@ See [list.txt](https://github.com/Bhalet/Anime-to-watch/blob/main/list.txt) for 
 - Hotarubi no Mori e　蛍火の杜へ
 - Gurren Lagann　天元突破グレンラガン
 - Blood: The Last Vampire
-　- Blood+
-　- Blood-C
-- Violet Evergarden　ヴァイオレット・エヴァーガーデン
+  - Blood+
+  - Blood-C
+- ~~Violet Evergarden　ヴァイオレット・エヴァーガーデン~~
 - Fena: Pirate Princess　海賊王女
 - Fruits Basket　フルーツバスケット
 - ~~Sirius the Jaeger　天狼~~
-- Darker than Black　黒の契約者
+- *Darker than Black　黒の契約者*
 - Id :Invaded
-- ~~Parasyte　寄生獣~~
-- my little devil
+- ~~Parasyte: the Maxim　寄生獣~~
+<!--my little devil-->
 - Fullmetal Alchemist: Brotherhood　鋼の錬金術師
 - Pluto
 - Sound! Euphonium
@@ -71,6 +73,8 @@ See [list.txt](https://github.com/Bhalet/Anime-to-watch/blob/main/list.txt) for 
 - Anohana: The Flower We Saw That Day　あの日見た花の名前を僕達はまだ知らない。
 - Your Lie in April　四月は君の嘘
 - Black Butler　黒執事
+<!--Vampire in the Gardenヴァンパイア・イン・ザ・ガーデン-->
+<!--The Duke of Death and His Maid死神坊ちゃんと黒メイド-->
 
 <font color="grey">Subjected to change frequently</font> 
 

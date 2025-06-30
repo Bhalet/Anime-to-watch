@@ -21,6 +21,8 @@ Hayao Miyazaki{
 #Attack on Titan　進撃の巨人
 #Steins;Gate
 Fate/Zero
+Tokyo Magnitude 8.0　東京マグニチュード8.0
+Japan Sinks　日本沈没
 I Want to Eat Your Pancreas　君の膵臓をたべたい
 #Plastic Memories　プラスチャック・メモリイズ
 The Flowers of Evil　悪の華
@@ -42,7 +44,7 @@ Fruits Basket　フルーツバスケット
 Darker than Black　黒の契約者
 Id :Invaded
 #Parasyte　寄生獣
-my little devil
+<!--my little devil-->
 Fullmetal Alchemist: Brotherhood　鋼の錬金術師
 Pluto
 Sound! Euphonium
@@ -65,3 +67,5 @@ Kino's Journey　キノの旅
 Anohana: The Flower We Saw That Day　あの日見た花の名前を僕達はまだ知らない。
 Your Lie in April　四月は君の嘘
 Black Butler　黒執事
+<!--Vampire in the Gardenヴァンパイア・イン・ザ・ガーデン-->
+<!--The Duke of Death and His Maid死神坊ちゃんと黒メイド-->
