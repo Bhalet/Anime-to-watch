@@ -1,5 +1,5 @@
 # Anime to Watch
-<p>This repository contains my anime watchlist<br>I am planning to organise it into another repository<br><p>
+<p>This repository contains my anime watchlist. Excluded watched-long-before, heavy NSFW contents, regular TV shows (super long anime)<br>I am planning to organise it into another repository<br><p>
 
 See [list.txt](https://github.com/Bhalet/Anime-to-watch/blob/main/list.txt) for my raw list.
 <br/></br>
@@ -72,6 +72,7 @@ See [list.txt](https://github.com/Bhalet/Anime-to-watch/blob/main/list.txt) for 
 - Your Lie in April　四月は君の嘘
 - Black Butler　黒執事
 
+<font color="grey">Subjected to change frequently</font> 
 
 | Finished  | Due  | Total |
 |:---|:---|:---|
