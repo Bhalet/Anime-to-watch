@@ -23,7 +23,7 @@ Hayao Miyazaki{
 Fate/Zero
 Tokyo Magnitude 8.0　東京マグニチュード8.0
 Japan Sinks　日本沈没
-I Want to Eat Your Pancreas　君の膵臓をたべたい
+#I Want to Eat Your Pancreas　君の膵臓をたべたい
 #Plastic Memories　プラスチャック・メモリイズ
 The Flowers of Evil　悪の華
 :A Certain Magical Index とある魔術の禁書目録
@@ -43,7 +43,7 @@ Fruits Basket　フルーツバスケット
 #Sirius the Jaeger　天狼
 Darker than Black　黒の契約者
 Id :Invaded
-#Parasyte　寄生獣
+#Parasyte: the Maxim　寄生獣
 <!--my little devil-->
 Fullmetal Alchemist: Brotherhood　鋼の錬金術師
 Pluto
