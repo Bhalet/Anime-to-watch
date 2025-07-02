@@ -20,6 +20,7 @@ Hayao Miyazaki{
 #Your Eternity　不滅のあなたへ
 #Attack on Titan　進撃の巨人
 #Steins;Gate
+Maquia: When the Promised Flower Blooms　さよならの朝に約束の花をかざろう
 Fate/Zero
 Tokyo Magnitude 8.0　東京マグニチュード8.0
 Japan Sinks　日本沈没
@@ -67,5 +68,19 @@ Kino's Journey　キノの旅
 Anohana: The Flower We Saw That Day　あの日見た花の名前を僕達はまだ知らない。
 Your Lie in April　四月は君の嘘
 Black Butler　黒執事
-<!--Vampire in the Gardenヴァンパイア・イン・ザ・ガーデン-->
-<!--The Duke of Death and His Maid死神坊ちゃんと黒メイド-->
+Death Parade　デス・パレード
+Banana Fish
+Guilty Crown　ギルティクラウン
+<!--Vampire in the Garden　ヴァンパイア・イン・ザ・ガーデン-->
+<!--The Duke of Death and His Maid　死神坊ちゃんと黒メイド-->
+<!--Made in Abyss　メイドインアビス-->
+<!--Mamoru Hosada{
+Wolf Children　おおかみこどもの雨と雪
+Belle　竜とそばかすの姫
+Summer Wars　サマーウォーズ
+The Girl Who Leapt Through Time　時をかける少女
+}-->
+<!--Seraph of the End　終わりのセラフ-->
+<!--Your Lie in April　四月は君の嘘-->
+<!--Angel Beats!-->
+<!--Erased　僕だけがいない街-->

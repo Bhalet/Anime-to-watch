@@ -27,13 +27,14 @@ See [list.txt](https://github.com/Bhalet/Anime-to-watch/blob/main/list.txt) for 
 - ~~Your Eternity　不滅のあなたへ~~
 - ~~Attack on Titan　進撃の巨人~~
 - ~~Steins;Gate~~
+- Maquia: When the Promised Flower Blooms　さよならの朝に約束の花をかざろう
 - Fate/Zero
 - Tokyo Magnitude 8.0　東京マグニチュード　8.0
 - Japan Sinks　　日本沈没
 - ~~I Want to Eat Your Pancreas　君の膵臓をたべたい~~
 - ~~Plastic Memories　プラスチャック・メモリイズ~~
 - The Flowers of Evil　悪の華
-- *A Certain Magical Index とある魔術の禁書目録*
+- *A Certain Magical Index　とある魔術の禁書目録*
 - Perfect Blue
 - The Promised Neverland　約束のネバーランド
 - ~~To Your Eternity　滅のあなたへ~~
@@ -73,8 +74,20 @@ See [list.txt](https://github.com/Bhalet/Anime-to-watch/blob/main/list.txt) for 
 - Anohana: The Flower We Saw That Day　あの日見た花の名前を僕達はまだ知らない。
 - Your Lie in April　四月は君の嘘
 - Black Butler　黒執事
-<!--Vampire in the Gardenヴァンパイア・イン・ザ・ガーデン-->
-<!--The Duke of Death and His Maid死神坊ちゃんと黒メイド-->
+- Banana Fish
+<!--Vampire in the Garden　ヴァンパイア・イン・ザ・ガーデン-->
+<!--The Duke of Death and His Maid　死神坊ちゃんと黒メイド-->
+<!--Made in Abyss　メイドインアビス-->
+<!--Mamoru Hosada
+ Wolf Children　おおかみこどもの雨と雪
+ Belle　竜とそばかすの姫
+ Summer Wars　サマーウォーズ
+ The Girl Who Leapt Through Time　時をかける少女
+}-->
+<!--Seraph of the End　終わりのセラフ-->
+<!--Your Lie in April　四月は君の嘘-->
+<!--Angel Beats!-->
+<!--Erased　僕だけがいない街-->
 
 <font color="grey">Subjected to change frequently</font> 
 
