@@ -35,17 +35,15 @@ See [list.txt](https://github.com/Bhalet/Anime-to-watch/blob/main/list.txt) for 
 - ~~Plastic Memories　プラスチャック・メモリイズ~~
 - The Flowers of Evil　悪の華
 - *A Certain Magical Index　とある魔術の禁書目録*
-- Perfect Blue
 - The Promised Neverland　約束のネバーランド
 - ~~To Your Eternity　滅のあなたへ~~
 - Devil May Cry
 - Hotarubi no Mori e　蛍火の杜へ
-- Gurren Lagann　天元突破グレンラガン
 - Blood: The Last Vampire
   - Blood+
   - Blood-C
 - ~~Violet Evergarden　ヴァイオレット・エヴァーガーデン~~
-- Fena: Pirate Princess　海賊王女
+- ~~Fena: Pirate Princess　海賊王女~~
 - Fruits Basket　フルーツバスケット
 - ~~Sirius the Jaeger　天狼~~
 - *Darker than Black　黒の契約者*
@@ -59,13 +57,13 @@ See [list.txt](https://github.com/Bhalet/Anime-to-watch/blob/main/list.txt) for 
 - Love Is War　かぐや様は告らせたい ～天才たちの恋愛頭脳戦
 - *Vinland Saga　ヴィンランド・サガ*
 - Death Note
-- Vivy: Fluorite Eye's Song　ヴィヴィ フローライトアイズソング
+- ~~Vivy: Fluorite Eye's Song　ヴィヴィ フローライトアイズソング~~
 - Spice and Wolf　狼と香辛料
 - Baccano!　バッカーノ!
 - Bungo Stray Dogs　文豪ストレイドッグス
 - *The Apothecary Diaries　薬屋のひとりごと*
 - Devils' Line
-- 86: Eighty Six
+- ~~86~~ 
 - Castlevania
 - Mushishi　蟲師
 - Her Blue Sky　空の青さを知る人よ
@@ -78,16 +76,16 @@ See [list.txt](https://github.com/Bhalet/Anime-to-watch/blob/main/list.txt) for 
 <!--Vampire in the Garden　ヴァンパイア・イン・ザ・ガーデン-->
 <!--The Duke of Death and His Maid　死神坊ちゃんと黒メイド-->
 <!--Made in Abyss　メイドインアビス-->
-<!--Mamoru Hosada
- Wolf Children　おおかみこどもの雨と雪
- Belle　竜とそばかすの姫
- Summer Wars　サマーウォーズ
- The Girl Who Leapt Through Time　時をかける少女
-}-->
+- Mamoru Hosada
+ - Wolf Children　おおかみこどもの雨と雪
+ - Belle　竜とそばかすの姫
+ - Summer Wars　サマーウォーズ
+ - The Girl Who Leapt Through Time　時をかける少女
+
 <!--Seraph of the End　終わりのセラフ-->
 <!--Your Lie in April　四月は君の嘘-->
 <!--Angel Beats!-->
-<!--Erased　僕だけがいない街-->
+- Erased　僕だけがいない街
 
 <font color="grey">Subjected to change frequently</font> 
 
