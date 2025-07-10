@@ -49,7 +49,6 @@ See [list.txt](https://github.com/Bhalet/Anime-to-watch/blob/main/list.txt) for 
 - *Darker than Black　黒の契約者*
 - Id :Invaded
 - ~~Parasyte: the Maxim　寄生獣~~
-<!--my little devil-->
 - Fullmetal Alchemist: Brotherhood　鋼の錬金術師
 - Pluto
 - Sound! Euphonium
@@ -73,23 +72,23 @@ See [list.txt](https://github.com/Bhalet/Anime-to-watch/blob/main/list.txt) for 
 - Your Lie in April　四月は君の嘘
 - Black Butler　黒執事
 - Banana Fish
-<!--Vampire in the Garden　ヴァンパイア・イン・ザ・ガーデン-->
-<!--The Duke of Death and His Maid　死神坊ちゃんと黒メイド-->
-<!--Made in Abyss　メイドインアビス-->
 - Mamoru Hosada
- - Wolf Children　おおかみこどもの雨と雪
- - Belle　竜とそばかすの姫
- - Summer Wars　サマーウォーズ
- - The Girl Who Leapt Through Time　時をかける少女
+  - Wolf Children　おおかみこどもの雨と雪
+  - Belle　竜とそばかすの姫
+  - Summer Wars　サマーウォーズ
+  - The Girl Who Leapt Through Time　時をかける少女
+- Erased　僕だけがいない街
 
 <!--Seraph of the End　終わりのセラフ-->
 <!--Your Lie in April　四月は君の嘘-->
+<!--my little devil-->
+<!--Noragami　ノラガミ-->
 <!--Angel Beats!-->
-- Erased　僕だけがいない街
-
+<!--Vampire in the Garden　ヴァンパイア・イン・ザ・ガーデン-->
+<!--The Duke of Death and His Maid　死神坊ちゃんと黒メイド-->
+<!--Made in Abyss　メイドインアビス-->
 <font color="grey">Subjected to change frequently</font> 
 
 | Finished  | Due  | Total |
 |:---|:---|:---|
-| 12 |  -- |  -- | 
-|  |   |   | 
+| 17 |  -- |  -- | 
