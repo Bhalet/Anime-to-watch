@@ -1,14 +1,8 @@
 # Anime to Watch
-<p>This repository contains my anime watchlist. Excluded watched-long-before, heavy NSFW contents, regular TV shows (super long anime)<br>I am planning to organise it into another repository<br><p>
+<p>This repository contains my anime watchlist. Excluded watched-long-before, heavy NSFW contents, and super long anime. <p>
 
-See [list.txt](https://github.com/Bhalet/Anime-to-watch/blob/main/list.txt) for my raw list.
-<br/></br>
-
-
-<!-- BEGIN LIST CONTENT -->
-<!-- END LIST CONTENT -->
 - Makoto Shinkai
-  - ~~Your Name　君のなは~~
+  - ~~Your Name　君の名は~~
   - ~~Weathering with you　天気の子~~
   - ~~Suzume　雀の戸締まり~~
   - Garden of Words　言の葉の庭
@@ -52,7 +46,7 @@ See [list.txt](https://github.com/Bhalet/Anime-to-watch/blob/main/list.txt) for 
 - Pluto
 - Sound! Euphonium
 - Maquia: When the Promised Flower Blooms　さよならの朝に約束の花をかざろう
-- Love Is War　かぐや様は告らせたい ～天才たちの恋愛頭脳戦
+- Kaguya-sama: Love Is War　かぐや様は告らせたい ～天才たちの恋愛頭脳戦
 - *Vinland Saga　ヴィンランド・サガ*
 - Death Note
 - ~~Vivy: Fluorite Eye's Song　ヴィヴィ フローライトアイズソング~~
@@ -60,11 +54,11 @@ See [list.txt](https://github.com/Bhalet/Anime-to-watch/blob/main/list.txt) for 
 - Baccano!　バッカーノ!
 - Bungo Stray Dogs　文豪ストレイドッグス
 - Devils' Line
-- ~~86~~ 
+- ~~86　エイティシックス~~ 
 - Castlevania
 - Mushishi　蟲師
 - Her Blue Sky　空の青さを知る人よ
-- Summer Time Rendering
+- ~~Summer Time Rendering~~
 - Kino's Journey　キノの旅
 - Anohana: The Flower We Saw That Day　あの日見た花の名前を僕達はまだ知らない。
 - Your Lie in April　四月は君の嘘
@@ -84,16 +78,20 @@ See [list.txt](https://github.com/Bhalet/Anime-to-watch/blob/main/list.txt) for 
 - Wolf's Rain
 - Takopi's Original Sin　タコピーの原罪
 
+<p>hidden ones here <br>
+|<br>
+\/<br>
 <!--Coppelion コッペリオン-->
 <!--Seraph of the End　終わりのセラフ-->
 <!--Your Lie in April　四月は君の嘘-->
 <!--my little devil-->
-<!--Noragami　ノラガミ-->
 <!--Angel Beats!-->
-<!--Vampire in the Garden　ヴァンパイア・イン・ザ・ガーデン-->
 <!--The Duke of Death and His Maid　死神坊ちゃんと黒メイド-->
 <!--Made in Abyss　メイドインアビス-->
 <!--Clannad-->
+/\<br>
+|
+<p>
 <font color="grey">Subjected to change frequently</font> 
 
 | Finished  | Due  | Total |
