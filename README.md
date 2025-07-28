@@ -12,10 +12,10 @@
   - Princess Mononoke　もののけ姫
   - Howl's Moving Castle　ハウルの動く城
   - My Neighbor Totoro　となりのトトロ
-  - Grave of the Fireflies　火垂るの墓
   - Spirited Away　と千尋の神隠しf
   - Whisper of the Heart　耳をすませば
   - The Wind Rises　風立ちぬ
+- Grave of the Fireflies　火垂るの墓
 - ~~The Silent Voice　聲の形~~
 - ~~Tunnel to Summer, the Exit of Goodbyes　夏へのトンネル、さよならの出口~~
 - ~~To Your Eternity　不滅のあなたへ~~
@@ -64,6 +64,7 @@
 - Your Lie in April　四月は君の嘘
 - Black Butler　黒執事
 - Banana Fish
+- Nana
 - Mamoru Hosada
   - Wolf Children　おおかみこどもの雨と雪
   - Belle　竜とそばかすの姫
@@ -84,11 +85,15 @@
 <!--Coppelion コッペリオン-->
 <!--Seraph of the End　終わりのセラフ-->
 <!--Your Lie in April　四月は君の嘘-->
-<!--my little devil-->
 <!--Angel Beats!-->
 <!--The Duke of Death and His Maid　死神坊ちゃんと黒メイド-->
 <!--Made in Abyss　メイドインアビス-->
 <!--Clannad-->
+<!--Neon Genesis Evangelion-->
+<!--Code Geass-->
+<!--Ranking of Kings-->
+<!--Texhnolyze-->
+<!--From the New World　新世界より-->
 /\<br>
 |
 <p>
