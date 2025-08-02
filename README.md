@@ -29,7 +29,7 @@
 - ~~Plastic Memories　プラスチャック・メモリイズ~~
 - The Flowers of Evil　悪の華
 - *A Certain Magical Index　とある魔術の禁書目録*
-- The Promised Neverland　約束のネバーランド
+- ~~The Promised Neverland　約束のネバーランド~~
 - Devil May Cry
 - Into the Forest of Fireflies Light　蛍火の杜へ
 - Blood: The Last Vampire
@@ -63,6 +63,8 @@
 - Anohana: The Flower We Saw That Day　あの日見た花の名前を僕達はまだ知らない。
 - Your Lie in April　四月は君の嘘
 - Black Butler　黒執事
+- ~~Noragami~~
+- Undead Girl Murder Farce　アンデッドガール・マーダーファルス
 - Banana Fish
 - Nana
 - Mamoru Hosada
@@ -78,13 +80,15 @@
 - Death Parade　デス・パレード
 - Wolf's Rain
 - Takopi's Original Sin　タコピーの原罪
+- Your Lie in April　四月は君の嘘
 
 <p>hidden ones here <br>
 |<br>
 \/<br>
-<!--Coppelion コッペリオン-->
+<!--Coppelion　コッペリオン-->
+<!--The Summer Hikaru Died　光が死んだ夏-->
 <!--Seraph of the End　終わりのセラフ-->
-<!--Your Lie in April　四月は君の嘘-->
+<!--Hori san to Miyamura kun　堀さんと宮村くん-->
 <!--Angel Beats!-->
 <!--The Duke of Death and His Maid　死神坊ちゃんと黒メイド-->
 <!--Made in Abyss　メイドインアビス-->
@@ -99,6 +103,8 @@
 <p>
 <font color="grey">Subjected to change frequently</font> 
 
-| Finished  | Due  | Total |
-|:---|:---|:---|
-| 17 |  -- |  -- | 
+
+<table>
+  <tr><th>Finished</th><th>Due</th><th>Total</th><tr>
+  <tr><td>20</td><td>--</td><td>--</td></tr>
+</table>
