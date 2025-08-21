@@ -5,8 +5,8 @@
   - ~~Your Name　君の名は~~
   - ~~Weathering with you　天気の子~~
   - ~~Suzume　雀の戸締まり~~
-  - Garden of Words　言の葉の庭
-  - 5 Centimetres per Second　秒速5センチメートル
+  - ~~Garden of Words　言の葉の庭~~
+  - ~~5 Centimetres per Second　秒速5センチメートル~~
 - Hayao Miyazaki
   - The Boy and the Heron　君たちはどう生きるか
   - Princess Mononoke　もののけ姫
@@ -45,7 +45,6 @@
 - Fullmetal Alchemist: Brotherhood　鋼の錬金術師
 - Pluto
 - Sound! Euphonium
-- Maquia: When the Promised Flower Blooms　さよならの朝に約束の花をかざろう
 - Kaguya-sama: Love Is War　かぐや様は告らせたい ～天才たちの恋愛頭脳戦
 - *Vinland Saga　ヴィンランド・サガ*
 - Death Note
@@ -63,10 +62,9 @@
 - Anohana: The Flower We Saw That Day　あの日見た花の名前を僕達はまだ知らない。
 - Your Lie in April　四月は君の嘘
 - Black Butler　黒執事
-- ~~Noragami~~
-- Undead Girl Murder Farce　アンデッドガール・マーダーファルス
+- ~~Noragami　ノラガミ~~
+- ~~Undead Girl Murder Farce　アンデッドガール・マーダーファルス~~
 - Banana Fish
-- Nana
 - Mamoru Hosada
   - Wolf Children　おおかみこどもの雨と雪
   - Belle　竜とそばかすの姫
@@ -80,7 +78,7 @@
 - Death Parade　デス・パレード
 - Wolf's Rain
 - Takopi's Original Sin　タコピーの原罪
-- Your Lie in April　四月は君の嘘
+- Sword Art Online　ソードアート・オンライン
 
 <p>hidden ones here <br>
 |<br>
@@ -106,5 +104,5 @@
 
 <table>
   <tr><th>Finished</th><th>Due</th><th>Total</th><tr>
-  <tr><td>20</td><td>--</td><td>--</td></tr>
+  <tr><td>22</td><td>--</td><td>--</td></tr>
 </table>
