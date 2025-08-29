@@ -7,6 +7,7 @@
   - ~~Suzume　雀の戸締まり~~
   - ~~Garden of Words　言の葉の庭~~
   - ~~5 Centimetres per Second　秒速5センチメートル~~
+  - ~~The Place Promised in Our Early Days　雲のむこう、約束の場所~~
 - Hayao Miyazaki
   - The Boy and the Heron　君たちはどう生きるか
   - Princess Mononoke　もののけ姫
@@ -78,7 +79,7 @@
 - Death Parade　デス・パレード
 - Wolf's Rain
 - Takopi's Original Sin　タコピーの原罪
-- Sword Art Online　ソードアート・オンライン
+- ~~Sword Art Online　ソードアート・オンライン~~
 
 <p>hidden ones here <br>
 |<br>
@@ -88,7 +89,6 @@
 <!--Seraph of the End　終わりのセラフ-->
 <!--Hori san to Miyamura kun　堀さんと宮村くん-->
 <!--Angel Beats!-->
-<!--The Duke of Death and His Maid　死神坊ちゃんと黒メイド-->
 <!--Made in Abyss　メイドインアビス-->
 <!--Clannad-->
 <!--Neon Genesis Evangelion-->
