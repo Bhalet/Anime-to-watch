@@ -1,5 +1,5 @@
 # Anime to Watch
-<p>This repository contains my anime watchlist. Excluded watched-long-before, heavy NSFW contents, and super long anime. <p>
+<p>This repository contains my anime watchlist. Excluded watched-long-before<p>
 
 - Makoto Shinkai
   - ~~Your Name　君の名は~~
@@ -22,7 +22,6 @@
 - ~~To Your Eternity　不滅のあなたへ~~
 - ~~Attack on Titan　進撃の巨人~~
 - ~~Steins;Gate~~
-- Maquia: When the Promised Flower Blooms　さよならの朝に約束の花をかざろう
 - Fate/Zero
 - Tokyo Magnitude 8.0　東京マグニチュード　8.0
 - Japan Sinks　　日本沈没
@@ -61,7 +60,7 @@
 - ~~Summer Time Rendering~~
 - Kino's Journey　キノの旅
 - Anohana: The Flower We Saw That Day　あの日見た花の名前を僕達はまだ知らない。
-- Your Lie in April　四月は君の嘘
+- ~~Your Lie in April　四月は君の嘘~~
 - Black Butler　黒執事
 - ~~Noragami　ノラガミ~~
 - ~~Undead Girl Murder Farce　アンデッドガール・マーダーファルス~~
@@ -104,5 +103,5 @@
 
 <table>
   <tr><th>Finished</th><th>Due</th><th>Total</th><tr>
-  <tr><td>22</td><td>--</td><td>--</td></tr>
+  <tr><td>26</td><td>--</td><td>--</td></tr>
 </table>
