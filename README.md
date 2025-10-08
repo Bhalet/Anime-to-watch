@@ -1,5 +1,5 @@
-# Anime to Watch
-<p>This repository contains my anime watchlist. Excluded watched-long-before<p>
+</h1>Anime to Watch</h1>
+</p>This repository contains my anime watchlist. Excluded watched-long-before</p>
 
 - Makoto Shinkai
   - ~~Your Name　君の名は~~
@@ -30,7 +30,7 @@
 - The Flowers of Evil　悪の華
 - *A Certain Magical Index　とある魔術の禁書目録*
 - ~~The Promised Neverland　約束のネバーランド~~
-- Devil May Cry
+- Devil May Cry: The Animated Series　デビル メイ クライ
 - Into the Forest of Fireflies Light　蛍火の杜へ
 - Blood: The Last Vampire
   - Blood+
@@ -44,7 +44,7 @@
 - ~~Parasyte: the Maxim　寄生獣~~
 - Fullmetal Alchemist: Brotherhood　鋼の錬金術師
 - Pluto
-- Sound! Euphonium
+- Sound! Euphonium　響け! ユーフォニアム
 - Kaguya-sama: Love Is War　かぐや様は告らせたい ～天才たちの恋愛頭脳戦
 - *Vinland Saga　ヴィンランド・サガ*
 - Death Note
@@ -53,7 +53,7 @@
 - Baccano!　バッカーノ!
 - Bungo Stray Dogs　文豪ストレイドッグス
 - Devils' Line
-- ~~86　エイティシックス~~ 
+- ~~86　エイティシックス~~
 - Castlevania
 - Mushishi　蟲師
 - Her Blue Sky　空の青さを知る人よ
@@ -72,21 +72,29 @@
   - The Girl Who Leapt Through Time　時をかける少女
 - ~~Erased　僕だけがいない街~~
 - 91 Days
-- Claymore
+- Claymore　クレイモア
 - In This Corner of the World　この世界の片隅に
 - Colorful　カラフル
 - Death Parade　デス・パレード
-- Wolf's Rain
+- Wolf's Rain　ウルフズレイン
 - Takopi's Original Sin　タコピーの原罪
 - ~~Sword Art Online　ソードアート・オンライン~~
+- The Case Study of Vanitas　ヴァニタスの手記
+- Hori san to Miyamura kun　堀さんと宮村くん
+- Rampo Kitan: Game of Laplace　乱歩奇譚
+- Science Fell in Love, So I Tried to Prove It　理系が恋に落ちたので証明してみた。
+- Snow White with the Red Hair　赤髪の白雪姫
 
-<p>hidden ones here <br>
-|<br>
-\/<br>
+
+
+
+
+</p>hidden ones here </br>
+|</br>
+\/</br>
 <!--Coppelion　コッペリオン-->
 <!--The Summer Hikaru Died　光が死んだ夏-->
 <!--Seraph of the End　終わりのセラフ-->
-<!--Hori san to Miyamura kun　堀さんと宮村くん-->
 <!--Angel Beats!-->
 <!--Made in Abyss　メイドインアビス-->
 <!--Clannad-->
@@ -97,11 +105,11 @@
 <!--From the New World　新世界より-->
 /\<br>
 |
-<p>
-<font color="grey">Subjected to change frequently</font> 
+</p>
+</font color="grey">Subjected to change frequently</font> 
 
 
-<table>
-  <tr><th>Finished</th><th>Due</th><th>Total</th><tr>
-  <tr><td>26</td><td>--</td><td>--</td></tr>
+</table>
+  </tr></th>Finished</th></th>Due</th></th>Total</th></tr>
+  </tr></td>26</td></td>--</td></td>--</td></tr>
 </table>
