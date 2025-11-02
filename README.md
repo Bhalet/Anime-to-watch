@@ -92,9 +92,14 @@
 </p>hidden ones here </br>
 |</br>
 \/</br>
+<!--Shiki　屍鬼-->
+<!--Elfen Lied　エルフェンリート-->
+<!--From the New World　新世界より-->
 <!--Coppelion　コッペリオン-->
 <!--The Summer Hikaru Died　光が死んだ夏-->
 <!--Seraph of the End　終わりのセラフ-->
+<!--Higurashi When They Cry　ひぐらしのなく頃に-->
+<!--Another-->
 <!--Angel Beats!-->
 <!--Orange-->
 <!--Made in Abyss　メイドインアビス-->
