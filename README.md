@@ -84,7 +84,8 @@
 - Rampo Kitan: Game of Laplace　乱歩奇譚
 - Science Fell in Love, So I Tried to Prove It　理系が恋に落ちたので証明してみた。
 - Snow White with the Red Hair　赤髪の白雪姫
-
+- The Summer Hikaru Died　光が死んだ夏
+- Angel Beats!
 
 
 
@@ -96,11 +97,14 @@
 <!--Elfen Lied　エルフェンリート-->
 <!--From the New World　新世界より-->
 <!--Coppelion　コッペリオン-->
-<!--The Summer Hikaru Died　光が死んだ夏-->
+<!--Devilman Crybaby-->
+<!--The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat　世界最高の暗殺者、異世界貴族に転生する-->
+<!--Land of the Lustrous　宝石の国-->
 <!--Seraph of the End　終わりのセラフ-->
 <!--Higurashi When They Cry　ひぐらしのなく頃に-->
-<!--Another-->
-<!--Angel Beats!-->
+<!--Another　アナザア-->
+<!--Psycho-Pass　サイコパス-->
+<!--The Quintessential Quintuplets　五等分の花嫁-->
 <!--Orange-->
 <!--Made in Abyss　メイドインアビス-->
 <!--Clannad-->
