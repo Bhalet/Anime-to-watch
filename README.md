@@ -85,7 +85,23 @@
 - Science Fell in Love, So I Tried to Prove It　理系が恋に落ちたので証明してみた。
 - Snow White with the Red Hair　赤髪の白雪姫
 - The Summer Hikaru Died　光が死んだ夏
-- Angel Beats!
+- Angel Beats
+- DARLING in the FRANXX
+- The Quintessential Quintuplets　五等分の花嫁
+- From the New World　新世界より
+- Made in Abyss　メイドインアビス
+- The Perfect Insider　すべてがFになる
+- Deca-Dence　デカダンス
+- Girls' Last Tour　少女終末旅行
+- Noein: To Your Other Self　ノエイン もうひとりの君へ
+- Puella Magi Madoka Magica　魔法少女まどか☆マギカ
+- Future Diary　未来日記
+- Joshiraku　じょしらく
+- The Eccentric Family　有頂天家族
+- Great Pretender
+- Revue Starlight　少女☆歌劇 レヴュースタァライト
+- The Executioner and Her Way of Life　処刑少女の生きる道
+- Golden Kamuy　ゴールデンカムイ
 
 
 
@@ -95,7 +111,7 @@
 \/</br>
 <!--Shiki　屍鬼-->
 <!--Elfen Lied　エルフェンリート-->
-<!--From the New World　新世界より-->
+<!---->
 <!--Coppelion　コッペリオン-->
 <!--Devilman Crybaby-->
 <!--The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat　世界最高の暗殺者、異世界貴族に転生する-->
@@ -104,15 +120,17 @@
 <!--Higurashi When They Cry　ひぐらしのなく頃に-->
 <!--Another　アナザア-->
 <!--Psycho-Pass　サイコパス-->
-<!--The Quintessential Quintuplets　五等分の花嫁-->
+<!--Valvrave the Liberator　革命機ヴァルヴレイヴ-->
+<!--Guilty Crown　ギルティクラウン-->
 <!--Orange-->
-<!--Made in Abyss　メイドインアビス-->
+<!---->
+<!--Astra Lost in Space　彼方のアストラ-->
 <!--Clannad-->
 <!--Neon Genesis Evangelion-->
 <!--Code Geass-->
 <!--Ranking of Kings-->
 <!--Texhnolyze-->
-<!--From the New World　新世界より-->
+<!---->
 /\<br>
 |
 </p>
