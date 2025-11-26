@@ -83,7 +83,6 @@
 - Hori san to Miyamura kun　堀さんと宮村くん
 - Rampo Kitan: Game of Laplace　乱歩奇譚
 - Science Fell in Love, So I Tried to Prove It　理系が恋に落ちたので証明してみた。
-- Snow White with the Red Hair　赤髪の白雪姫
 - The Summer Hikaru Died　光が死んだ夏
 - Angel Beats
 - DARLING in the FRANXX
@@ -102,7 +101,8 @@
 - Revue Starlight　少女☆歌劇 レヴュースタァライト
 - The Executioner and Her Way of Life　処刑少女の生きる道
 - Golden Kamuy　ゴールデンカムイ
-
+- Wotakoi: Love Is Hard for Otaku　ヲタクに恋は難しい
+- Komi Can't Communicate　古見さんは、コミュ症です。
 
 
 
