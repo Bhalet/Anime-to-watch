@@ -1,5 +1,5 @@
 </h1>Anime to Watch</h1>
-</p>This repository contains my anime watchlist. Excluded watched-long-before</br>I read/watch for the plot, so I watch the anime adaptation if I read the manga and don't read the manga if I watch the anime. I also avoid non Japanese ones</p>
+</p>This repository contains my anime watchlist. Excluded watched-long-before</br>I read/watch for the plot, so I don't watch the anime adaptation if I read the manga and don't read the manga if I watch the anime. I also avoid non Japanese ones</p>
 
 - Makoto Shinkai
   - ~~Your Name　君の名は~~
