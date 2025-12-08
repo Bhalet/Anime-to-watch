@@ -104,6 +104,8 @@
 - Wotakoi: Love Is Hard for Otaku　ヲタクに恋は難しい
 - Komi Can't Communicate　古見さんは、コミュ症です。
 - Aldnoah.Zero　アルドノア・ゼロ
+- Romeo x Juilet
+- The Eminence in Shadow　陰の実力者になりたくて!
 
 
 
