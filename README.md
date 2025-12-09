@@ -88,6 +88,7 @@
 - DARLING in the FRANXX
 - The Quintessential Quintuplets　五等分の花嫁
 - From the New World　新世界より
+- Gachiakuta　ガチアクタ
 - Made in Abyss　メイドインアビス
 - The Perfect Insider　すべてがFになる
 - Deca-Dence　デカダンス
@@ -104,6 +105,12 @@
 - Wotakoi: Love Is Hard for Otaku　ヲタクに恋は難しい
 - Komi Can't Communicate　古見さんは、コミュ症です。
 - Aldnoah.Zero　アルドノア・ゼロ
+- Pseudo Harem　疑似ハーレム
+- Zenshu　全修
+- Tsuki ga Kirei　月がきれい
+- Elfen Lied　エルフェンリート
+- Astra Lost in Space　彼方のアストラ
+- Dusk Maiden of Amnesia　黄昏乙女×アムネジア
 
 
 
@@ -111,7 +118,7 @@
 |</br>
 \/</br>
 <!--Shiki　屍鬼-->
-<!--Elfen Lied　エルフェンリート-->
+<!--Descending Stories: Showa Genroku Rakugo Shinju　昭和元禄落語心中-->
 <!---->
 <!--Coppelion　コッペリオン-->
 <!--Devilman Crybaby-->
@@ -125,11 +132,11 @@
 <!--Guilty Crown　ギルティクラウン-->
 <!--Orange-->
 <!---->
-<!--Astra Lost in Space　彼方のアストラ-->
+<!---->
 <!--Clannad-->
 <!--Neon Genesis Evangelion-->
 <!--Code Geass-->
-<!--Ranking of Kings-->
+<!--Ranking of Kings　王様ランキング-->
 <!--Texhnolyze-->
 <!---->
 /\<br>
