@@ -111,6 +111,8 @@
 - Elfen Lied　エルフェンリート
 - Astra Lost in Space　彼方のアストラ
 - Dusk Maiden of Amnesia　黄昏乙女×アムネジア
+- Romeo x Juilet
+- The Eminence in Shadow　陰の実力者になりたくて!
 
 
 
