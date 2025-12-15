@@ -1,31 +1,17 @@
 </h1>Anime to Watch</h1>
 </p>This repository contains my anime watchlist. Excluded watched-long-before</br>I read/watch for the plot, so I don't watch the anime adaptation if I read the manga and don't read the manga if I watch the anime. I also avoid non Japanese ones</p>
 
-- Makoto Shinkai
-  - ~~Your Name　君の名は~~
-  - ~~Weathering with you　天気の子~~
-  - ~~Suzume　雀の戸締まり~~
-  - ~~Garden of Words　言の葉の庭~~
-  - ~~5 Centimetres per Second　秒速5センチメートル~~
-  - ~~The Place Promised in Our Early Days　雲のむこう、約束の場所~~
-- Hayao Miyazaki
-  - The Boy and the Heron　君たちはどう生きるか
-  - Princess Mononoke　もののけ姫
-  - Howl's Moving Castle　ハウルの動く城
-  - My Neighbor Totoro　となりのトトロ
-  - Spirited Away　と千尋の神隠しf
-  - Whisper of the Heart　耳をすませば
-  - The Wind Rises　風立ちぬ
-- Grave of the Fireflies　火垂るの墓
-- ~~The Silent Voice　聲の形~~
-- ~~Tunnel to Summer, the Exit of Goodbyes　夏へのトンネル、さよならの出口~~
-- ~~To Your Eternity　不滅のあなたへ~~
+[Heal.md](Heal.md) for healing after emotional breakdown
+[See.md](See.md) for animes want need reviewing
+[Mov.md](Mov.md) for Movies
+
+
+- To Your Eternity　不滅のあなたへ
 - ~~Attack on Titan　進撃の巨人~~
 - ~~Steins;Gate~~
 - Fate/Zero
 - Tokyo Magnitude 8.0　東京マグニチュード　8.0
 - Japan Sinks　　日本沈没
-- ~~I Want to Eat Your Pancreas　君の膵臓をたべたい~~
 - ~~Plastic Memories　プラスチャック・メモリイズ~~
 - The Flowers of Evil　悪の華
 - *A Certain Magical Index　とある魔術の禁書目録*
@@ -80,9 +66,7 @@
 - Takopi's Original Sin　タコピーの原罪
 - ~~Sword Art Online　ソードアート・オンライン~~
 - The Case Study of Vanitas　ヴァニタスの手記
-- Hori san to Miyamura kun　堀さんと宮村くん
 - Rampo Kitan: Game of Laplace　乱歩奇譚
-- Science Fell in Love, So I Tried to Prove It　理系が恋に落ちたので証明してみた。
 - The Summer Hikaru Died　光が死んだ夏
 - Angel Beats
 - DARLING in the FRANXX
@@ -102,7 +86,6 @@
 - Revue Starlight　少女☆歌劇 レヴュースタァライト
 - The Executioner and Her Way of Life　処刑少女の生きる道
 - Golden Kamuy　ゴールデンカムイ
-- Wotakoi: Love Is Hard for Otaku　ヲタクに恋は難しい
 - Komi Can't Communicate　古見さんは、コミュ症です。
 - Aldnoah.Zero　アルドノア・ゼロ
 - Pseudo Harem　疑似ハーレム
@@ -113,7 +96,12 @@
 - Dusk Maiden of Amnesia　黄昏乙女×アムネジア
 - Romeo x Juilet
 - The Eminence in Shadow　陰の実力者になりたくて!
-
+- Overload　オーバーロード
+- Moriarty the Patriot　憂国のモリアーティ
+- Dorohedoro　ドロヘドロ
+- The Irregular at Magic High School　魔法科高校の劣等生
+- Psycho-Pass　サイコパス
+- The Saga of Tanya the Evil　幼女戦記
 
 
 </p>hidden ones here </br>
@@ -121,7 +109,7 @@
 \/</br>
 <!--Shiki　屍鬼-->
 <!--Descending Stories: Showa Genroku Rakugo Shinju　昭和元禄落語心中-->
-<!---->
+<!--Grimoire of Zero　ゼロから始める魔法の書 -->
 <!--Coppelion　コッペリオン-->
 <!--Devilman Crybaby-->
 <!--The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat　世界最高の暗殺者、異世界貴族に転生する-->
@@ -129,11 +117,11 @@
 <!--Seraph of the End　終わりのセラフ-->
 <!--Higurashi When They Cry　ひぐらしのなく頃に-->
 <!--Another　アナザア-->
-<!--Psycho-Pass　サイコパス-->
+<!--Now and Then, Here and There　今、そこにいる僕,-->
 <!--Valvrave the Liberator　革命機ヴァルヴレイヴ-->
 <!--Guilty Crown　ギルティクラウン-->
-<!--Orange-->
 <!---->
+<!--Aoi Bungaku-->
 <!---->
 <!--Clannad-->
 <!--Neon Genesis Evangelion-->
