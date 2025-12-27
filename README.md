@@ -102,6 +102,12 @@
 - The Irregular at Magic High School　魔法科高校の劣等生
 - Psycho-Pass　サイコパス
 - The Saga of Tanya the Evil　幼女戦記
+- ~~Inuyashiki　いぬやしき~~
+- Insomniacs After School　君は放課後インソムニア
+- The Dangers in My Heart　僕の心のヤバイやつ
+- Ranking of Kings　王様ランキング-
+- Bloom Into You　やがて君になる 
+
 
 
 </p>hidden ones here </br>
@@ -126,7 +132,7 @@
 <!--Clannad-->
 <!--Neon Genesis Evangelion-->
 <!--Code Geass-->
-<!--Ranking of Kings　王様ランキング-->
+<!--->
 <!--Texhnolyze-->
 <!---->
 /\<br>
