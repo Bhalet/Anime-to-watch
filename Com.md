@@ -6,7 +6,7 @@
 - The Rising of the Shield Hero
 - Tsukimichi: Moonlit Fantasy
 - Handyman Saitou in Another World
-- Hozuki’s Coolheadednes
+- Hozuki’s Coolheadedness
 - The Devil Is a Part-Timer!
 
 - Isekai Quartet

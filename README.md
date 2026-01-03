@@ -1,9 +1,9 @@
 </h1>Anime to Watch</h1>
 </p>This repository contains my anime watchlist. Excluded watched-long-before</br>I read/watch for the plot, so I don't watch the anime adaptation if I read the manga and don't read the manga if I watch the anime. I also avoid non Japanese ones</p>
 
-[Heal.md](Heal.md) for healing after emotional breakdown
-[See.md](See.md) for animes want need reviewing
-[Mov.md](Mov.md) for Movies
+[Heal.md](Heal.md) for Rom-com</br>
+[See.md](See.md) for animes want need reviewing</br>
+[Mov.md](Mov.md) for Movies  
 
 
 - To Your Eternity　不滅のあなたへ
@@ -42,6 +42,7 @@
 - ~~86　エイティシックス~~
 - Castlevania
 - Mushishi　蟲師
+- Re:ZERO -Starting Life in Another World-　Re:ゼロから始める異世界生活
 - Her Blue Sky　空の青さを知る人よ
 - ~~Summer Time Rendering~~
 - Kino's Journey　キノの旅
@@ -51,11 +52,6 @@
 - ~~Noragami　ノラガミ~~
 - ~~Undead Girl Murder Farce　アンデッドガール・マーダーファルス~~
 - Banana Fish
-- Mamoru Hosada
-  - Wolf Children　おおかみこどもの雨と雪
-  - Belle　竜とそばかすの姫
-  - Summer Wars　サマーウォーズ
-  - The Girl Who Leapt Through Time　時をかける少女
 - ~~Erased　僕だけがいない街~~
 - 91 Days
 - Claymore　クレイモア
@@ -78,16 +74,13 @@
 - Deca-Dence　デカダンス
 - Girls' Last Tour　少女終末旅行
 - Noein: To Your Other Self　ノエイン もうひとりの君へ
-- Puella Magi Madoka Magica　魔法少女まどか☆マギカ
 - Future Diary　未来日記
 - Joshiraku　じょしらく
 - The Eccentric Family　有頂天家族
 - Great Pretender
-- Revue Starlight　少女☆歌劇 レヴュースタァライト
 - The Executioner and Her Way of Life　処刑少女の生きる道
 - Golden Kamuy　ゴールデンカムイ
 - Komi Can't Communicate　古見さんは、コミュ症です。
-- Aldnoah.Zero　アルドノア・ゼロ
 - Pseudo Harem　疑似ハーレム
 - Zenshu　全修
 - Tsuki ga Kirei　月がきれい
@@ -95,7 +88,7 @@
 - Astra Lost in Space　彼方のアストラ
 - Dusk Maiden of Amnesia　黄昏乙女×アムネジア
 - Romeo x Juilet
-- The Eminence in Shadow　陰の実力者になりたくて!
+- ~~The Eminence in Shadow　陰の実力者になりたくて!~~
 - Overload　オーバーロード
 - Moriarty the Patriot　憂国のモリアーティ
 - Dorohedoro　ドロヘドロ
@@ -106,7 +99,11 @@
 - Insomniacs After School　君は放課後インソムニア
 - The Dangers in My Heart　僕の心のヤバイやつ
 - Ranking of Kings　王様ランキング-
-- Bloom Into You　やがて君になる 
+- Bloom Into You　やがて君になる
+- Log Horizon　ログ・ホライズン 
+- The Twelve Kingdoms　十二国記 
+- Sonny Boy　サニーボーイ
+- Grimgar: Ashes and Illusions　灰と幻想のグリムガル 
 
 
 
@@ -126,13 +123,13 @@
 <!--Now and Then, Here and There　今、そこにいる僕,-->
 <!--Valvrave the Liberator　革命機ヴァルヴレイヴ-->
 <!--Guilty Crown　ギルティクラウン-->
-<!---->
+<!--Puella Magi Madoka Magica　魔法少女まどか☆マギカ-->
 <!--Aoi Bungaku-->
 <!---->
 <!--Clannad-->
 <!--Neon Genesis Evangelion-->
 <!--Code Geass-->
-<!--->
+<!---->
 <!--Texhnolyze-->
 <!---->
 /\<br>

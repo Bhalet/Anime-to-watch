@@ -17,6 +17,11 @@
 - ~~The Silent Voice　聲の形~~
 - ~~Tunnel to Summer, the Exit of Goodbyes　夏へのトンネル、さよならの出口~~
 - ~~I Want to Eat Your Pancreas　君の膵臓をたべたい~~
+- The Girl Who Leapt Through Time　時をかける少女
+- Summer Wars　サマーウォーズ
+- Wolf Children　おおかみこどもの雨と雪
+- Belle　竜とそばかすの姫
+- Revue Starlight　少女☆歌劇 レヴュースタァライト
 
 
 
