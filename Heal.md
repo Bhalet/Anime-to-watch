@@ -1,4 +1,4 @@
-**Romance Comedy** for healing after watching serious and heart-breaking animes.
+**Romance Comedy**
 
 - Hori san to Miyamura kun　堀さんと宮村くん
 - Science Fell in Love, So I Tried to Prove It　理系が恋に落ちたので証明してみた。

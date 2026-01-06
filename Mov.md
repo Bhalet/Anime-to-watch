@@ -22,6 +22,10 @@
 - Wolf Children　おおかみこどもの雨と雪
 - Belle　竜とそばかすの姫
 - Revue Starlight　少女☆歌劇 レヴュースタァライト
-
+- Into the Forest of Fireflies Light　蛍火の杜へ
+- Her Blue Sky　空の青さを知る人よ
+- In This Corner of the World　この世界の片隅に
+- Colorful　カラフル
+- Blood: The Last Vampire
 
 
