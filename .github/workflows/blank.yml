@@ -1,0 +1,42 @@
+on:
+  push:
+    paths:
+      - "list.txt"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Read list.txt and update README.md
+        run: |
+          CONTENT=$(<list.txt)
+          awk -v content="$(sed 's/\\/\\\\/g; s/"/\\"/g' list.txt | awk '{ print "    " $0 }')" '
+          /<!-- BEGIN LIST CONTENT -->/ {
+            print "<!-- BEGIN LIST CONTENT -->"
+            print "```text"
+            print content
+            print "```"
+            in_block = 1
+          }
+          /<!-- END LIST CONTENT -->/ {
+            print "<!-- END LIST CONTENT -->"
+            in_block = 0
+            next
+          }
+          !in_block
+          ' README.md > README.tmp && mv README.tmp README.md
+
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet || git commit -m "Update README with latest list.txt content"
+          git push
