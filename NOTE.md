@@ -5,3 +5,5 @@ Tokyo Ghoul
 Ajin: Demi-Human
 Act Age
 The Quintessential Quintuplets
+Dusk Maiden of amnesia
+Magical girl site
