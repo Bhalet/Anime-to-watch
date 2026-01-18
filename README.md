@@ -100,6 +100,8 @@
 - K-On!　けいおん!
 - The Wrong Way to Use Healing Magic　治癒魔法の間違った使い方
 - Sankarea: Undying Love　さんかれあ
+- Gankutsuou: The Count of Monte Cristo　巌窟王
+- Kyousougiga　京騒戯画　
 
 
 
