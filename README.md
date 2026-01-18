@@ -102,6 +102,18 @@
 - Sankarea: Undying Love　さんかれあ
 - Gankutsuou: The Count of Monte Cristo　巌窟王
 - Kyousougiga　京騒戯画　
+- Lycoris Recoil　リコリス・リコイル
+- Laid-Back Camp　ゆるキャン△
+- Theatre of Darkness: Yamishibai　闇芝居
+- Bokurano: Ours　ぼくらの
+- 　
+- 　
+- 　
+- 　
+- 　
+- 　
+- 　 
+- 　
 
 
 

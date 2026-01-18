@@ -27,6 +27,7 @@
 - In This Corner of the World　この世界の片隅に
 - Colorful　カラフル
 - Blood: The Last Vampire
-- Night on the Galactic Railroad　
+- Night on the Galactic Railroad　銀河鉄道の夜 
+- Memories　メモリーズ
 
 
