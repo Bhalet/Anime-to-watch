@@ -10,7 +10,7 @@
 - ~~Attack on Titan　進撃の巨人~~
 - ~~Steins;Gate~~
 - Tokyo Magnitude 8.0　東京マグニチュード　8.0
-- Japan Sinks　日本沈没
+- Japan Sinks: 2020　日本沈没2020
 - ~~Plastic Memories　プラスチャック・メモリイズ~~
 - The Flowers of Evil　悪の華
 - *A Certain Magical Index　とある魔術の禁書目録*
@@ -57,7 +57,7 @@
 - Rampo Kitan: Game of Laplace　乱歩奇譚
 - The Summer Hikaru Died　光が死んだ夏
 - Angel Beats　エンジェルビーツ!
-- DARLING in the FRANXX　ダーリン・イン・ザ・フランキス
+- ~~DARLING in the FRANXX　ダーリン・イン・ザ・フランキス~~
 - The Quintessential Quintuplets　五等分の花嫁
 - From the New World　新世界より
 - Gachiakuta　ガチアクタ
@@ -106,14 +106,16 @@
 - Laid-Back Camp　ゆるキャン△
 - Theatre of Darkness: Yamishibai　闇芝居
 - Bokurano: Ours　ぼくらの
-- 　
-- 　
-- 　
-- 　
-- 　
-- 　
+- Akiba Maid War　アキバ冥途戦争
+- The Kubikiri Cycle　クビキリサイクル 青色サヴァンと戯言遣い
+- School-Live!　がっこうぐらし！
+- Migi & Dali　ミギとダリ
+- Talentless Nana　無能なナナ
+- Tomodachi Game　トモダチゲーム
+- Akudama Drive　アクダマドライブ 
+- My Home Hero　マイホームヒーロー
 - 　 
-- 　
+- 　 
 
 
 
@@ -146,9 +148,3 @@
 |
 </p>
 </font color="grey">Subjected to change frequently</font> 
-
-
-</table>
-  </tr></th>Finished</th></th>Due</th></th>Total</th></tr>
-  </tr></td>26</td></td>--</td></td>--</td></tr>
-</table>
