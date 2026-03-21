@@ -114,7 +114,11 @@
 - Tomodachi Game　トモダチゲーム
 - Akudama Drive　アクダマドライブ 
 - My Home Hero　マイホームヒーロー
-- 　 
+- Terror in Resonance 残響のテロル
+- Now and Then, Here and There　今、そこにいる僕
+- Gosick
+- Reign of the Seven Spellblades　七つの魔剣が支配する 
+- Casshan　新造人間キャシャーン 
 - 　 
 
 
@@ -132,7 +136,7 @@
 <!--Seraph of the End　終わりのセラフ-->
 <!--Higurashi When They Cry　ひぐらしのなく頃に-->
 <!--Another　アナザア-->
-<!--Now and Then, Here and There　今、そこにいる僕,-->
+<!---->
 <!--Valvrave the Liberator　革命機ヴァルヴレイヴ-->
 <!--Guilty Crown　ギルティクラウン-->
 <!--Puella Magi Madoka Magica　魔法少女まどか☆マギカ-->
